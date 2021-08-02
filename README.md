@@ -20,7 +20,7 @@ We are still working on the public version of the code and the synthetic dataset
 
 # Other projects
 
-*  [DeepReg](www.deepreg.net)
+*  [DeepReg](https://deepregnet.github.io/)
 
 *  [SNAPPY](https://github.com/UCL/scikit-surgery)
 
