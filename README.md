@@ -8,7 +8,7 @@ We are still working on the public version of the code and the synthetic dataset
 
 * Optimal ultrasound planes for the initialisation of image registration [[paper](https://link.springer.com/article/10.1007/s11548-018-1762-2)].
 
-* Assessment of electromagnetic tracking accuracy[[paper](https://discovery.ucl.ac.uk/id/eprint/1544341/1/Bonmati%20Coll_assessment%20of%20electromagnetic%20tracking_endoscopic_.pdf)]
+* Assessment of electromagnetic tracking accuracy [[paper](https://discovery.ucl.ac.uk/id/eprint/1544341/1/Bonmati%20Coll_assessment%20of%20electromagnetic%20tracking_endoscopic_.pdf)]
 
 # Research talks
 
