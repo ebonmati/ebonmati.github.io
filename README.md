@@ -8,7 +8,7 @@ We are still working on the public version of the code and the synthetic dataset
 
 ## XXXXXXX XXXXXXX -- Coming soon
 
-## Research talks
+# Research talks
 
 * [UCL CMIC Summer school 2021](https://medicss.cs.ucl.ac.uk/timetable/event/2021-esther-bonmati-coll/) (only available to registered atendees).
 
@@ -18,7 +18,7 @@ We are still working on the public version of the code and the synthetic dataset
 
 * [DeepReg: CMIC/WEISS seminar](https://www.youtube.com/watch?v=jDEyWXZM3CE).
 
-## Other projects
+# Other projects
 
 *  [DeepReg](www.deepreg.net)
 
