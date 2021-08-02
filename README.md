@@ -4,9 +4,9 @@
 
 We are still working on the public version of the code and the synthetic dataset. Please contact me if you wish early access to the code at: e.bonmati-at-ucl.ac.uk.
 
-## XXXXX XXXXXXXXX -- Coming soon
+## Endoscopic ultrasound (EUS)
 
-## XXXXXXX XXXXXXX -- Coming soon
+* Optimal ultrasound planes for the initialisation of image registration [[paper](https://link.springer.com/article/10.1007/s11548-018-1762-2)].
 
 # Research talks
 
