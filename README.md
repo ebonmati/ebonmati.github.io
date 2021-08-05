@@ -40,6 +40,9 @@ Please contact me if you wish early access to the code at: e.bonmati-at-ucl.ac.u
   </a>
   <a href="https://www.youtube.com/watch?v=SUonfdBlbaQ">RSIP Vision virtual seminar: Endoscopic Ultrasound AI-Guided Interventions: current approaches and challenges</a>
   <p>In this talk, I present my research on a computer-assisted navigation system for guiding EUS interventions. In particular, I show an accuracy study for real-time 3D probe tracking, a new framework for initializing computer-assisted EUS navigation, and a prototype navigation system. I also introduce some challenges that I think we need to overcome in the future, especially when using ultrasound and artificial intelligence.</p>
+    <br />
+    <br />
+    <br />
 </div>
 
 <div>
@@ -48,6 +51,13 @@ Please contact me if you wish early access to the code at: e.bonmati-at-ucl.ac.u
   </a>
   <a href="https://www.youtube.com/watch?v=csw6SVl8igE">WEISS Researcher elevator pitch</a>
   <p>1 minute research elevator pitch, explaining my work on the use endoscopic ultrasound for the detection of pancreatic cancer.</p>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
 </div>
 
 <div>
