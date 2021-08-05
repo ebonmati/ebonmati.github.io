@@ -18,6 +18,10 @@ We are still working on the public version of the code and the synthetic dataset
 
 * [![WEISS Researcher elevator pitch](https://img.youtube.com/vi/csw6SVl8igE/0.jpg)](https://www.youtube.com/watch?v=csw6SVl8igE)
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=csw6SVl8igE
+" target="_blank"><img src="http://img.youtube.com/vi/csw6SVl8igE/0.jpg" 
+alt="WEISS Researcher elevator pitch" width="240" height="180" border="10" /></a>
+
 * [DeepReg: CMIC/WEISS seminar](https://www.youtube.com/watch?v=jDEyWXZM3CE).
 
 # Other projects
