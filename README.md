@@ -16,6 +16,9 @@ We are still working on the public version of the code and the synthetic dataset
 
 * [RSIP Vision virtual seminar: Endoscopic Ultrasound AI-Guided Interventions: current approaches and challenges](https://www.youtube.com/watch?v=SUonfdBlbaQ).
 
+<button class='thumbnail' type="button" onclick="ShowVideo('https://www.youtube.com/embed/SUonfdBlbaQ')" name="button">
+  <img src="http://img.youtube.com/vi/SUonfdBlbaQ/0.jpg" alt="">
+</button>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=SUonfdBlbaQ" target="_blank">
   <img src="http://img.youtube.com/vi/SUonfdBlbaQ/0.jpg" alt="WEISS Researcher elevator pitch" width="240" height="180" border="10" />
