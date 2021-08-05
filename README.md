@@ -16,7 +16,7 @@ We are still working on the public version of the code and the synthetic dataset
 
 * [RSIP Vision virtual seminar: Endoscopic Ultrasound AI-Guided Interventions: current approaches and challenges](https://www.rsipvision.com/meetup-endoscopic-ultrasound-guided-interventions/).
 
-* [WEISS Researcher elevator pitch](https://www.youtube.com/watch?v=csw6SVl8igE).
+* [![WEISS Researcher elevator pitch](https://img.youtube.com/vi/csw6SVl8igE/0.jpg)](https://www.youtube.com/watch?v=csw6SVl8igE)
 
 * [DeepReg: CMIC/WEISS seminar](https://www.youtube.com/watch?v=jDEyWXZM3CE).
 
