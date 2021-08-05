@@ -5,6 +5,8 @@ My research interests are focused on the development of computer assisted interv
 Currently, I am developing data-driven approaches for the early detection of pancreatic cancer during endoscopy ultrasound interventions (EUS). I have also developed a guidance system for EUS to assist clinicians during navigation and diagnosis of pancreatobiliary disorders.
 I am also passionate about teaching and public engagement activities.
 
+---
+
 # Research projects
 
 ## Advanced ultrasound modes for Interventional applications (DOORS)
@@ -25,35 +27,73 @@ Please contact me if you wish early access to the code at: e.bonmati-at-ucl.ac.u
 
 ## Targeted prostate biopsy
 
+---
+
 # Research highlights
 
-* [UCL CMIC Summer school 2021](https://medicss.cs.ucl.ac.uk/timetable/event/2021-esther-bonmati-coll/) (only available to registered atendees).
-
-* [RSIP Vision virtual seminar: Endoscopic Ultrasound AI-Guided Interventions: current approaches and challenges](https://www.youtube.com/watch?v=SUonfdBlbaQ).
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=SUonfdBlbaQ" target="_blank">
-  <img src="http://img.youtube.com/vi/SUonfdBlbaQ/0.jpg" alt="WEISS Researcher elevator pitch" width="240" height="180" border="10" />
-</a>
-
-* [WEISS Researcher elevator pitch](https://www.youtube.com/watch?v=csw6SVl8igE).
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=csw6SVl8igE" target="_blank">
-  <img src="http://img.youtube.com/vi/csw6SVl8igE/0.jpg" alt="WEISS Researcher elevator pitch" width="240" height="180" border="10" />
-</a>
-
-* [CMIC Image-guided interventions](https://www.youtube.com/watch?v=YuTXNiFAp7E).
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YuTXNiFAp7E" target="_blank">
-  <img src="http://img.youtube.com/vi/YuTXNiFAp7E/0.jpg" alt="CMIC image-guided interventions" width="240" height="180" border="10" />
-</a>
+[UCL CMIC Summer school 2021](https://medicss.cs.ucl.ac.uk/timetable/event/2021-esther-bonmati-coll/) (only available to registered atendees).
 
 
-* [DeepReg: CMIC/WEISS seminar](https://www.youtube.com/watch?v=jDEyWXZM3CE).
+<div>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=SUonfdBlbaQ" target="_blank">
+    <img align="left" width="33%" src="http://img.youtube.com/vi/SUonfdBlbaQ/0.jpg" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=SUonfdBlbaQ">RSIP Vision virtual seminar: Endoscopic Ultrasound AI-Guided Interventions: current approaches and challenges</a>
+  <p>In this talk, I present my research on a computer-assisted navigation system for guiding EUS interventions. In particular, I show an accuracy study for real-time 3D probe tracking, a new framework for initializing computer-assisted EUS navigation, and a prototype navigation system. I also introduce some challenges that I think we need to overcome in the future, especially when using ultrasound and artificial intelligence.</p>
+  <br />
+  <br />
+  <br />
+</div>
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=jDEyWXZM3CE" target="_blank">
-  <img src="http://img.youtube.com/vi/jDEyWXZM3CE/0.jpg" alt="DeepReg" width="240" height="180" border="10" />
-</a>
+<div>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=csw6SVl8igE" target="_blank">
+    <img align="left" width="33%" src="http://img.youtube.com/vi/csw6SVl8igE/0.jpg" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=csw6SVl8igE">WEISS Researcher elevator pitch</a>
+  <p>1 minute research elevator pitch, explaining my work on the use endoscopic ultrasound for the detection of pancreatic cancer.</p>
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+</div>
 
+<div>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=YuTXNiFAp7E" target="_blank">
+    <img align="left" width="33%" src="http://img.youtube.com/vi/YuTXNiFAp7E/0.jpg" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=YuTXNiFAp7E">CMIC Image-guided interventions</a>
+  <p>UCL CMIC Research Spotlight: Image-Guided Interventions.</p>
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+</div>
+
+<div>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=jDEyWXZM3CE" target="_blank">
+    <img align="left" width="33%" src="http://img.youtube.com/vi/jDEyWXZM3CE/0.jpg" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=jDEyWXZM3CE">DeepReg: CMIC/WEISS seminar</a>
+  <p>DeepReg team talk at the CMIC/WEISS seminar series.</p>
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+</div>
+
+
+---
+  
 # Other projects
 
 *  [DeepReg](https://deepregnet.github.io/)
@@ -63,11 +103,22 @@ Please contact me if you wish early access to the code at: e.bonmati-at-ucl.ac.u
 
 # Public and Patient Engagement
 
-*  [The Surgical Stand Off](https://www.youtube.com/watch?v=QEcoGTEf_qU)
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=QEcoGTEf_qU" target="_blank">
-  <img src="http://img.youtube.com/vi/QEcoGTEf_qU/0.jpg" alt="WEISS Researcher elevator pitch" width="240" height="180" border="10" />
-</a>
+<div>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=QEcoGTEf_qU" target="_blank">
+    <img align="left" width="33%" src="http://img.youtube.com/vi/QEcoGTEf_qU/0.jpg" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=QEcoGTEf_qU">The Surgical Stand Off</a>
+  <p>Competitive game that illustrated the sometimes cut-throat world of research while allowing WEISS researchers share stories of their pioneering research. Each researcher had only 1 minute to convince the panel that their research is the most essential.</p>
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+</div>
+  
+---
 
 # Contact
 
